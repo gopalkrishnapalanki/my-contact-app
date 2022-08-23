@@ -1,0 +1,48 @@
+.my-header{
+    background-color: rgb(83 74 255);
+    border-radius: 10px;
+}
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active{
+    outline:0px !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+}
+.my-name{
+    font-size: 20px;
+    margin-bottom: 0;
+    color: #374351 !important;
+    font-weight: 600;
+}
+.my-p-2{
+    font-size: 16px;
+    margin-bottom: 0;
+    line-height: 1.5rem;
+}
+
+.my-form{
+    padding: 18px;
+    border-radius: 13px;
+}
+.category-images {
+    border: 1px solid #e3e3e3 !important;
+    height: 40px;
+    border-radius: 50px !important;
+    background-color: #fff;
+    padding: 5px;
+}
+
+.category-text {
+    font-size: 14px;
+    font-weight: 500;
+}
